@@ -16,7 +16,7 @@ h3{
     text-align: left;
 }
 .skill{
-    width: 500px;
+    width: 500px auto;
     margin: 60px auto;
     color: #bbb;
     padding: 20px;
